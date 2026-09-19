@@ -1,1 +1,52 @@
-[]
+[
+    {
+        "student_id": "101",
+        "subject": "Maths",
+        "marks": 88.0
+    },
+    {
+        "student_id": "102",
+        "subject": "Maths",
+        "marks": 45.0
+    },
+    {
+        "student_id": "103",
+        "subject": "Maths",
+        "marks": 8.0
+    },
+    {
+        "student_id": "104",
+        "subject": "Maths",
+        "marks": 89.0
+    },
+    {
+        "student_id": "105",
+        "subject": "Maths",
+        "marks": 75.0
+    },
+    {
+        "student_id": "106",
+        "subject": "Maths",
+        "marks": 99.0
+    },
+    {
+        "student_id": "107",
+        "subject": "Maths",
+        "marks": 65.0
+    },
+    {
+        "student_id": "108",
+        "subject": "Maths",
+        "marks": 87.0
+    },
+    {
+        "student_id": "109",
+        "subject": "Maths",
+        "marks": 85.0
+    },
+    {
+        "student_id": "110",
+        "subject": "Maths",
+        "marks": 58.0
+    }
+]
