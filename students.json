@@ -1,0 +1,72 @@
+[
+    {
+        "student_id": "101",
+        "name": "raju",
+        "email": "raju@gmail.com",
+        "mobile": "9704192385",
+        "course": "python"
+    },
+    {
+        "student_id": "102",
+        "name": "ramu",
+        "email": "ramu@gmail.com",
+        "mobile": "9440884341",
+        "course": "python"
+    },
+    {
+        "student_id": "103",
+        "name": "nithin",
+        "email": "nithin@gmail.com",
+        "mobile": "8688773289",
+        "course": "python"
+    },
+    {
+        "student_id": "104",
+        "name": "yash",
+        "email": "yash@gmail.com",
+        "mobile": "9828578548",
+        "course": "python"
+    },
+    {
+        "student_id": "105",
+        "name": "resh",
+        "email": "resh@gmail.com",
+        "mobile": "6301373358",
+        "course": "python"
+    },
+    {
+        "student_id": "106",
+        "name": "sagar",
+        "email": "sagar@gmail.com",
+        "mobile": "9786588643",
+        "course": "java"
+    },
+    {
+        "student_id": "107",
+        "name": "harsha",
+        "email": "harsha@gmail.com",
+        "mobile": "9899884689",
+        "course": "java"
+    },
+    {
+        "student_id": "108",
+        "name": "ruthu",
+        "email": "ruthu@gmail.com",
+        "mobile": "9867564534",
+        "course": "java"
+    },
+    {
+        "student_id": "109",
+        "name": "sailaja",
+        "email": "sailaja@gmail.com",
+        "mobile": "9087865489",
+        "course": "java"
+    },
+    {
+        "student_id": "110",
+        "name": "babu",
+        "email": "babu@gmail.com",
+        "mobile": "9897967895",
+        "course": "java"
+    }
+]
